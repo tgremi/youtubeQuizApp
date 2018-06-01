@@ -1,0 +1,3 @@
+rootProject.name = 'youtubeQuizApp'
+
+include ':app'
